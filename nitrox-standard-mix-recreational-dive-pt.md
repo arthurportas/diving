@@ -3,7 +3,9 @@
 ## Misturas standard no mergulho recreativo:
 
 **EANX 29**
+
 **EANX 32**
+
 **EANX 36**
 
 ## Aplicabilidade (profundidade) ou MOD - Maximum Operation Depth
