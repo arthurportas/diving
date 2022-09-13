@@ -19,8 +19,8 @@ A FO2 do Nitrox representa o valor em percentagem de O2 puro numa data mistura.
 ### Fenchimento - Fração oxigénio presente no gás do enchimento do oxigénio (1 no caso do oxigénio puro)
 
 ### Questão: Como calcular quantos bares de O2 necessários para enchimento de 200 bar EANX 32?
-### Assumir garrafa vazia
-### Assumir TOP OFF a ar
+Assumir garrafa vazia
+Assumir TOP OFF a ar
 
 Resposta:
 
@@ -31,8 +31,8 @@ PO2 = 200 * .14
 PO2 = **28 bar de oxigénio seguido de ar**
 
 ### Questão: Como calcular quantos bares de O2 necessários para enchimento de 200 bar EANX 29?
-### Assumir garrafa vazia
-### Assumir TOP OFF a ar
+Assumir garrafa vazia
+Assumir TOP OFF a ar
 
 Resposta:
 
@@ -43,8 +43,8 @@ PO2 = 200 * .10
 PO2 = **20 bar de oxigénio seguido de ar**
 
 ### Questão: Como calcular quantos bares de O2 necessários para enchimento de 200 bar EANX 36?
-### Assumir garrafa vazia
-### Assumir TOP OFF a ar
+Assumir garrafa vazia
+Assumir TOP OFF a ar
 
 Resposta:
 
