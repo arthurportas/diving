@@ -25,9 +25,13 @@ Assumir TOP OFF a ar
 Resposta:
 
 PO2 = Pdesejada * ( (Fdesejada - Ftop-off) / (Fenchimento - Ftop-off) )
+
 PO2 = 200 * ( (.32 - 0.21) / (1 - 0.21) )
+
 PO2 = 200 * ( .11 / 0.79 )
+
 PO2 = 200 * .14
+
 PO2 = **28 bar de oxigénio seguido de ar**
 
 ### Questão: Como calcular quantos bares de O2 necessários para enchimento de 200 bar EANX 29?
@@ -37,9 +41,13 @@ Assumir TOP OFF a ar
 Resposta:
 
 PO2 = Pdesejada * ( (Fdesejada - Ftop-off) / (Fenchimento - Ftop-off) )
+
 PO2 = 200 * ( (.29 - 0.21) / (1 - 0.21) )
+
 PO2 = 200 * ( .08 / 0.79 )
+
 PO2 = 200 * .10
+
 PO2 = **20 bar de oxigénio seguido de ar**
 
 ### Questão: Como calcular quantos bares de O2 necessários para enchimento de 200 bar EANX 36?
@@ -49,7 +57,11 @@ Assumir TOP OFF a ar
 Resposta:
 
 PO2 = Pdesejada * ( (Fdesejada - Ftop-off) / (Fenchimento - Ftop-off) )
+
 PO2 = 200 * ( (.36 - 0.21) / (1 - 0.21) )
+
 PO2 = 200 * ( .15 / 0.79 )
+
 PO2 = 200 * .19
+
 PO2 = **38 bar de oxigénio seguido de ar**
