@@ -23,6 +23,7 @@ Assim: Ptotal = PmixExistente + PmixBlend
 Assumir garrafa com 50 bar ar
 Assumir TOP OFF a ar
 
+```
  ---
 (   )
 |***|
@@ -31,6 +32,7 @@ Assumir TOP OFF a ar
 |???|
 |###|50 bar EAN21
 |###|
+```
 
 ## Resposta requer dois passos:
 ### 1 - Qual o nitrox a produzir nos 150 bares restantes para o enchimento?
@@ -59,6 +61,8 @@ PO2 = 150 * 0.19
 PO2 = **29 bar de O2 seguido de top off a ar.**
 
 Resultado:
+
+```
  ---
 (   )
 |***|
@@ -67,12 +71,13 @@ Resultado:
 |+++|
 |###|50 bar EAN21
 |###|
-
+```
 
 ### Questão: Como calcular quantos bares de O2 necessários para enchimento de 200 bar EANX 32?
 Assumir garrafa com 110 bar EAN32
 Assumir TOP OFF a ar
 
+```
  ---
 (   )
 |***|Top-Off a ar
@@ -81,6 +86,7 @@ Assumir TOP OFF a ar
 |###|
 |###|
 |###|
+```
 
 ## Resposta requer dois passos:
 ### 1 - Qual o nitrox a produzir nos 90 bares restantes para o enchimento?
@@ -113,6 +119,7 @@ PO2 = **13 bar de O2 seguido de top off a ar.**
 
 Resultado:
 
+```
  ---
 (   )
 |***|Top-Off a ar
@@ -121,6 +128,7 @@ Resultado:
 |###|
 |###|
 |###|
+```
 
 O resultado também pode ser comprovado pela **tabela de pressões de oxigénio com top off a ar** onde:
 
@@ -139,6 +147,7 @@ O resultado também pode ser comprovado pela **tabela de pressões de oxigénio 
 Assumir garrafa com 30 bar EAN50
 Assumir TOP OFF a ar
 
+```
  ---
 (   )
 |***|Top-Off a ar
@@ -147,6 +156,7 @@ Assumir TOP OFF a ar
 |???|
 |???|
 |###|30 bar de EAN50
+```
 
 ## Resposta requer dois passos:
 ### 1 - Qual o nitrox a produzir nos 170 bares restantes para o enchimento?
@@ -181,6 +191,7 @@ PO2 = **17 bar de O2 seguido de top off a ar.**
 
 Resultado:
 
+```
  ---
 (   )
 |***|Top-Off a ar
@@ -189,6 +200,7 @@ Resultado:
 |***|
 |+++|17 bar de O2
 |###|30 bar de EAN50
+```
 
 O resultado também pode ser comprovado pela **tabela de pressões de oxigénio com top off a ar** onde:
 
