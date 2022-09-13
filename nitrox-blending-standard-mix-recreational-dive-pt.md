@@ -2,8 +2,6 @@
 
 ## Misturas standard no mergulho recreativo:
 
-**EANX 29**
-
 **EANX 32**
 
 **EANX 36**
@@ -34,21 +32,6 @@ PO2 = 200 * .14
 
 PO2 = **28 bar de oxigénio seguido de ar**
 
-### Questão: Como calcular quantos bares de O2 necessários para enchimento de 200 bar EANX 29?
-Assumir garrafa vazia
-Assumir TOP OFF a ar
-
-Resposta:
-
-PO2 = Pdesejada * ( (Fdesejada - Ftop-off) / (Fenchimento - Ftop-off) )
-
-PO2 = 200 * ( (.29 - 0.21) / (1 - 0.21) )
-
-PO2 = 200 * ( .08 / 0.79 )
-
-PO2 = 200 * .10
-
-PO2 = **20 bar de oxigénio seguido de ar**
 
 ### Questão: Como calcular quantos bares de O2 necessários para enchimento de 200 bar EANX 36?
 Assumir garrafa vazia
