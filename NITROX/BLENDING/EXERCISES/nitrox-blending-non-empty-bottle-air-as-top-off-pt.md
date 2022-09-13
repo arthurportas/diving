@@ -129,7 +129,7 @@ O resultado também pode ser comprovado pela **tabela de pressões de oxigénio 
 
 110 + 90 = 200 que são compostos por 28 bar de O2.
 
-![Prova valores em tabela](RESOURCES/res_1.png)
+![Prova valores em tabela](RESOURCES/res_2.png)
 
 ## PRO TIP:
 ### Temos *14* como um número a decorar em que a cada 100 bar de EAN32, 14 bar de O2
@@ -199,4 +199,4 @@ O resultado também pode ser comprovado pela **tabela de pressões de oxigénio 
 
 ![Prova valores em tabela](RESOURCES/res_1.png)
 
-
+![Prova valores em software](RESOURCES/res_3.png)
