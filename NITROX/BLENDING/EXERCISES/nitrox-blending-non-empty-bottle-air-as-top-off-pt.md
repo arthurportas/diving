@@ -212,3 +212,77 @@ O resultado também pode ser comprovado pela **tabela de pressões de oxigénio 
 ![Prova valores em tabela](RESOURCES/res_1.png)
 
 ![Prova valores em software](RESOURCES/res_3.png)
+
+
+### Questão: Como calcular quantos bares de O2 necessários para enchimento de 200 bar EANX 32?
+Assumir garrafa com 150 bar EAN50
+Assumir TOP OFF a ar
+
+```
+ ---
+(   )
+|***|Top-Off a ar
+|???|O2 puro a adicionar
+|???|
+|###|150 bar de EAN50
+|###|
+|###|
+```
+
+## Resposta requer dois passos:
+### 1 - Qual o nitrox a produzir nos 50 bares restantes para o enchimento?
+### 2 - Como o fazer?
+
+1 - Qual o nitrox a produzir?
+Ptotal = PmixExistente + PmixBlend
+
+200 * 0.32 = 150 * 0.50 + (200 - 150) * X
+
+64 = 75 + 50X
+
+-50X = 75 -64
+
+-50X = 11
+
+X = 11 / -50
+
+X = **- 0,22 , esta é a F02 do nitrox a produzir. Como não é possível produzir este nitrox,**
+**então é necessário purgar EAN50 existente até ser possível ter EAN32 no enchimento total**
+
+## Qual o valor a purgar até chegar a uma pressão X?
+
+
+200 * 0.32 = X x 0.50 + (200 - X) * 0.21
+
+64 = 0.50X + 42 - 0.21X
+
+-0.50X + 0.21X = -64 + 42
+
+-0.29X = -22
+
+X = -22 / -0.29
+
+X = **76 bar, este é o valor em bares a purgar ao ENA50 existente de modo a que seja possível fazer o restante enchimento e obter EAN32**
+
+Então:
+
+```
+ ---
+(   )
+|***|Top-Off a ar
+|???|O2 puro a adicionar
+|???|
+|###|150 - **76** = 74 bar de EAN50
+|###|
+|###|
+```
+### Após purgar, tenho 74 bar de EAN50 e o top off é feito a ar.
+
+
+O resultado também pode ser comprovado pela **tabela de pressões de oxigénio com top off a ar** onde:
+
+70 bar de EAN50 existentes são compostos por aproximafamente 26 bar de O2, este valor é aproximadamente os 28bar O2 que compõem 200bar de EAN32.
+
+
+![Prova valores em tabela](RESOURCES/res_4.png)
+
