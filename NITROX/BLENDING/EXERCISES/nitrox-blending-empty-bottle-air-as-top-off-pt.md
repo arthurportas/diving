@@ -1,12 +1,6 @@
 # Nitrox
 
-## Misturas standard no mergulho recreativo:
-
-**EANX 32**
-
-**EANX 36**
-
-A FO2 do Nitrox representa o valor em percentagem de O2 puro numa data mistura.
+A FO2 do Nitrox representa o valor em percentagem de O2 numa data mistura.
 
 ## Fórmula:  PO2 = Pdesejada * ( (Fdesejada - Ftop-off) / (Fenchimento - Ftop-off) ) , em que:
 
