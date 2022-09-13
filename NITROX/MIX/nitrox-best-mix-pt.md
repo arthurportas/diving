@@ -33,7 +33,7 @@ FO2 = 1.4 / ((7 / 10) + 1)
 
 FO2 = 1.4 / 1.7
 
-FO2 = 0.82 , logo **EANX82  - por questões de segurança no blending de gases não são utilizados valores FO2 acima de 50%.**
+FO2 = 0.82 , logo **EANX82**
 
 ### Questão: Qual é o best mix Nitrox para um mergulho a 12 metros? 
 
@@ -43,7 +43,7 @@ FO2 = 1.4 / ((12 / 10) + 1)
 
 FO2 = 1.4 / 2.2
 
-FO2 = 0.64 , logo **EANX64 - por questões de segurança no blending de gases não são utilizados valores FO2 acima de 50%.**
+FO2 = 0.64 , logo **EANX64**
 
 ### Questão: Qual é o best mix Nitrox para um mergulho a 22 metros?
 
