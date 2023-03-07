@@ -53,7 +53,7 @@ FO2 = 1.4 / ((22 / 10) + 1)
 
 FO2 = 1.4 / 3.2
 
-FO2 = 0.44 , logo **EANX344**
+FO2 = 0.44 , logo **EANX44**
 
 Questão: Qual é o best mix Nitrox para um mergulho a 28 metros?
 
